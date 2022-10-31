@@ -6,3 +6,5 @@
 
 #unignore all dirs
 !*/
+
+bin/
