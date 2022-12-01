@@ -2,11 +2,24 @@
 
 ## Programming Languages
 
-Using visual studio code. If not using it just ignore the .vscode dir
+Editor: visual studio code
 
-### 1. C++
+### 1. C/C++
 
-Install The following extension:
+- Install vscode extencions:
+  - [C/C++ for Visual Studio Code](https://code.visualstudio.com/docs/languages/cpp)
+  - [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
+- Install a compiler
+  MacOS have a C/C++ compiler already installed. To check it simply run `clang --version` on Terminal
+  ![clang_version](/images/clang_version.png)
 
-- [C/C++ for Visual Studio Code](https://code.visualstudio.com/docs/languages/cpp)
-- [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
+### 2. Java
+
+Install the following resources:
+
+- [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/downloads/)
+
+  After the installation, make sure java is already installed on your system by running `java --version` on Terminal.
+  ![java_version](/images/java_version.png)
+
+- [Extension Pack for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack) on vscode

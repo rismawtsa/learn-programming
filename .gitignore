@@ -7,4 +7,11 @@
 #unignore all dirs
 !*/
 
+#java
 bin/
+*.class
+
+#php module
+vendor
+
+.DS_Store
