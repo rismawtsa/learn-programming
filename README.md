@@ -13,7 +13,7 @@ Editor: visual studio code
 
   MacOS have a C/C++ compiler already installed. To check it simply run `clang --version` on Terminal
 
-  ![clang_version](/images/clang_version.png)
+  <img src="/images/clang_version.png" width="300">
 
 ### 2. Java
 
@@ -23,6 +23,6 @@ Install the following resources:
 
   After the installation, make sure java is already installed on your system by running `java --version` on Terminal.
  
-  ![java_version](/images/java_version.png)
+  <img src="/images/java_version.png" width="300">
 
 - [Extension Pack for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack) on vscode
